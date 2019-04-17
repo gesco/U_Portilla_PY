@@ -1,6 +1,8 @@
 my_list = [1,2,3]
 print(my_list)
+# [1, 2, 3]
 print(len(my_list))
+# 3
 
 your_list = ['one', 'two', 'three']
 print(your_list[0])
